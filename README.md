@@ -2,4 +2,4 @@
 
 Implement BFS DFS algorithm from scratch
 
-In this code, BFS DFS mostly shared code. The only difference is how to choose node path for expand 
+In this code, BFS DFS mostly shared code. The only difference is how to choose node path to expand 
