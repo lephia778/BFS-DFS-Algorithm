@@ -1,4 +1,4 @@
-# CI-7603-BFS-DFS-Algorithm
+BFS-DFS-Algorithm
 
 Implement BFS DFS algorithm from scratch
 
